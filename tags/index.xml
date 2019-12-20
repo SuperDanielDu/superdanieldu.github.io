@@ -1,0 +1,2527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hacking Management</title>
+    <link>https://superdanieldu.github.io/tags/</link>
+    <description>Recent content in Tags on Hacking Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="https://superdanieldu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>development</title>
+      <link>https://superdanieldu.github.io/tags/development/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://superdanieldu.github.io/tags/go/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>https://superdanieldu.github.io/tags/history/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>product management</title>
+      <link>https://superdanieldu.github.io/tags/product-management/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/product-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language design</title>
+      <link>https://superdanieldu.github.io/tags/language-design/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/language-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cobra</title>
+      <link>https://superdanieldu.github.io/tags/cobra/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cobra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://superdanieldu.github.io/tags/docker/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drupal</title>
+      <link>https://superdanieldu.github.io/tags/drupal/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://superdanieldu.github.io/tags/google/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://superdanieldu.github.io/tags/hugo/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongodb</title>
+      <link>https://superdanieldu.github.io/tags/mongodb/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open source</title>
+      <link>https://superdanieldu.github.io/tags/open-source/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https://superdanieldu.github.io/tags/php/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>viper</title>
+      <link>https://superdanieldu.github.io/tags/viper/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/viper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contributing</title>
+      <link>https://superdanieldu.github.io/tags/contributing/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/contributing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code-in</title>
+      <link>https://superdanieldu.github.io/tags/code-in/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/code-in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://superdanieldu.github.io/tags/linux/</link>
+      <pubDate>Fri, 05 Jun 2015 10:43:50 +0900</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>https://superdanieldu.github.io/tags/operating-systems/</link>
+      <pubDate>Fri, 05 Jun 2015 10:43:50 +0900</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>https://superdanieldu.github.io/tags/community/</link>
+      <pubDate>Tue, 17 Mar 2015 15:24:07 -0500</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advocacy</title>
+      <link>https://superdanieldu.github.io/tags/advocacy/</link>
+      <pubDate>Wed, 24 Sep 2014 13:17:48 -0400</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/advocacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evangelism</title>
+      <link>https://superdanieldu.github.io/tags/evangelism/</link>
+      <pubDate>Wed, 24 Sep 2014 13:17:48 -0400</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/evangelism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mgo</title>
+      <link>https://superdanieldu.github.io/tags/mgo/</link>
+      <pubDate>Wed, 23 Jul 2014 09:48:46 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/mgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://superdanieldu.github.io/tags/c/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://superdanieldu.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://superdanieldu.github.io/tags/golang/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://superdanieldu.github.io/tags/perl/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://superdanieldu.github.io/tags/python/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>https://superdanieldu.github.io/tags/ruby/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>object-oriented</title>
+      <link>https://superdanieldu.github.io/tags/object-oriented/</link>
+      <pubDate>Mon, 09 Jun 2014 01:18:04 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/object-oriented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data</title>
+      <link>https://superdanieldu.github.io/tags/data/</link>
+      <pubDate>Fri, 25 Apr 2014 00:00:00 +1000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://superdanieldu.github.io/tags/java/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>https://superdanieldu.github.io/tags/node.js/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>https://superdanieldu.github.io/tags/scala/</link>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.vimrc</title>
+      <link>https://superdanieldu.github.io/tags/.vimrc/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/.vimrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution</title>
+      <link>https://superdanieldu.github.io/tags/distribution/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gvim</title>
+      <link>https://superdanieldu.github.io/tags/gvim/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/gvim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plugins</title>
+      <link>https://superdanieldu.github.io/tags/plugins/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spf13-vim</title>
+      <link>https://superdanieldu.github.io/tags/spf13-vim/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/spf13-vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vi</title>
+      <link>https://superdanieldu.github.io/tags/vi/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim</title>
+      <link>https://superdanieldu.github.io/tags/vim/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim (text editor)</title>
+      <link>https://superdanieldu.github.io/tags/vim-text-editor/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vim-text-editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vimscript</title>
+      <link>https://superdanieldu.github.io/tags/vimscript/</link>
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vimscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://superdanieldu.github.io/tags/javascript/</link>
+      <pubDate>Mon, 05 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://superdanieldu.github.io/tags/blogging/</link>
+      <pubDate>Thu, 04 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profiling</title>
+      <link>https://superdanieldu.github.io/tags/profiling/</link>
+      <pubDate>Wed, 19 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://superdanieldu.github.io/tags/blog/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css3</title>
+      <link>https://superdanieldu.github.io/tags/css3/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/css3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html5</title>
+      <link>https://superdanieldu.github.io/tags/html5/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://superdanieldu.github.io/tags/personal/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>responsive</title>
+      <link>https://superdanieldu.github.io/tags/responsive/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Hadoop</title>
+      <link>https://superdanieldu.github.io/tags/apache-hadoop/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/apache-hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>https://superdanieldu.github.io/tags/big-data/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Processing</title>
+      <link>https://superdanieldu.github.io/tags/data-processing/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Tools</title>
+      <link>https://superdanieldu.github.io/tags/data-tools/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Data Processing</title>
+      <link>https://superdanieldu.github.io/tags/distributed-data-processing/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/distributed-data-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hadoop</title>
+      <link>https://superdanieldu.github.io/tags/hadoop/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mapreduce</title>
+      <link>https://superdanieldu.github.io/tags/mapreduce/</link>
+      <pubDate>Thu, 06 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/mapreduce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10gen</title>
+      <link>https://superdanieldu.github.io/tags/10gen/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/10gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driver Team</title>
+      <link>https://superdanieldu.github.io/tags/driver-team/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/driver-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers</title>
+      <link>https://superdanieldu.github.io/tags/drivers/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://superdanieldu.github.io/tags/github/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack</title>
+      <link>https://superdanieldu.github.io/tags/hack/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack Day</title>
+      <link>https://superdanieldu.github.io/tags/hack-day/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hack-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thon</title>
+      <link>https://superdanieldu.github.io/tags/thon/</link>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/thon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://superdanieldu.github.io/tags/architecture/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data analysis</title>
+      <link>https://superdanieldu.github.io/tags/data-analysis/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Processor</title>
+      <link>https://superdanieldu.github.io/tags/data-processor/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Storage</title>
+      <link>https://superdanieldu.github.io/tags/data-storage/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information technology</title>
+      <link>https://superdanieldu.github.io/tags/information-technology/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/information-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nosql</title>
+      <link>https://superdanieldu.github.io/tags/nosql/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nyc</title>
+      <link>https://superdanieldu.github.io/tags/nyc/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/nyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbitz</title>
+      <link>https://superdanieldu.github.io/tags/orbitz/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/orbitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strata</title>
+      <link>https://superdanieldu.github.io/tags/strata/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/strata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strata Nyc</title>
+      <link>https://superdanieldu.github.io/tags/strata-nyc/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/strata-nyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structured storage</title>
+      <link>https://superdanieldu.github.io/tags/structured-storage/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/structured-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backup</title>
+      <link>https://superdanieldu.github.io/tags/backup/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business continuity planning</title>
+      <link>https://superdanieldu.github.io/tags/business-continuity-planning/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/business-continuity-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud storage</title>
+      <link>https://superdanieldu.github.io/tags/cloud-storage/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cloud-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>common myths</title>
+      <link>https://superdanieldu.github.io/tags/common-myths/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/common-myths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computing</title>
+      <link>https://superdanieldu.github.io/tags/computing/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data center</title>
+      <link>https://superdanieldu.github.io/tags/data-center/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data management</title>
+      <link>https://superdanieldu.github.io/tags/data-management/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaster recovery</title>
+      <link>https://superdanieldu.github.io/tags/disaster-recovery/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/disaster-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaster recovery plan</title>
+      <link>https://superdanieldu.github.io/tags/disaster-recovery-plan/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/disaster-recovery-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaster recovery process</title>
+      <link>https://superdanieldu.github.io/tags/disaster-recovery-process/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/disaster-recovery-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaster recovery solutions</title>
+      <link>https://superdanieldu.github.io/tags/disaster-recovery-solutions/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/disaster-recovery-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>disaster recovery strategy</title>
+      <link>https://superdanieldu.github.io/tags/disaster-recovery-strategy/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/disaster-recovery-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergency management</title>
+      <link>https://superdanieldu.github.io/tags/emergency-management/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/emergency-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information risk management</title>
+      <link>https://superdanieldu.github.io/tags/information-risk-management/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/information-risk-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>real time recovery</title>
+      <link>https://superdanieldu.github.io/tags/real-time-recovery/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/real-time-recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recovery</title>
+      <link>https://superdanieldu.github.io/tags/recovery/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recovery plan</title>
+      <link>https://superdanieldu.github.io/tags/recovery-plan/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/recovery-plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recovery strategies</title>
+      <link>https://superdanieldu.github.io/tags/recovery-strategies/</link>
+      <pubDate>Thu, 04 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/recovery-strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intellectual property</title>
+      <link>https://superdanieldu.github.io/tags/intellectual-property/</link>
+      <pubDate>Mon, 24 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/intellectual-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intellectual property protection</title>
+      <link>https://superdanieldu.github.io/tags/intellectual-property-protection/</link>
+      <pubDate>Mon, 24 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/intellectual-property-protection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giving a presentation</title>
+      <link>https://superdanieldu.github.io/tags/giving-a-presentation/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/giving-a-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCON</title>
+      <link>https://superdanieldu.github.io/tags/oscon/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/oscon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation software</title>
+      <link>https://superdanieldu.github.io/tags/presentation-software/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/presentation-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentations</title>
+      <link>https://superdanieldu.github.io/tags/presentations/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slideshare</title>
+      <link>https://superdanieldu.github.io/tags/slideshare/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/slideshare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the presentation</title>
+      <link>https://superdanieldu.github.io/tags/the-presentation/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/the-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://superdanieldu.github.io/tags/twitter/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>view</title>
+      <link>https://superdanieldu.github.io/tags/view/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>view presentation</title>
+      <link>https://superdanieldu.github.io/tags/view-presentation/</link>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/view-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://superdanieldu.github.io/tags/tutorial/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://superdanieldu.github.io/tags/photography/</link>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoshop</title>
+      <link>https://superdanieldu.github.io/tags/photoshop/</link>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>picasa</title>
+      <link>https://superdanieldu.github.io/tags/picasa/</link>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/picasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Availability</title>
+      <link>https://superdanieldu.github.io/tags/availability/</link>
+      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/availability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Durability</title>
+      <link>https://superdanieldu.github.io/tags/durability/</link>
+      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/durability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high availability</title>
+      <link>https://superdanieldu.github.io/tags/high-availability/</link>
+      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/high-availability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>replication</title>
+      <link>https://superdanieldu.github.io/tags/replication/</link>
+      <pubDate>Mon, 25 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pear</title>
+      <link>https://superdanieldu.github.io/tags/pear/</link>
+      <pubDate>Mon, 14 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/pear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache Cassandra</title>
+      <link>https://superdanieldu.github.io/tags/apache-cassandra/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/apache-cassandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>databases</title>
+      <link>https://superdanieldu.github.io/tags/databases/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redis</title>
+      <link>https://superdanieldu.github.io/tags/redis/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Scale Distributed</title>
+      <link>https://superdanieldu.github.io/tags/large-scale-distributed/</link>
+      <pubDate>Fri, 04 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/large-scale-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>https://superdanieldu.github.io/tags/bash/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editor</title>
+      <link>https://superdanieldu.github.io/tags/editor/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://superdanieldu.github.io/tags/git/</link>
+      <pubDate>Tue, 10 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Software</title>
+      <link>https://superdanieldu.github.io/tags/blog-software/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/blog-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Management</title>
+      <link>https://superdanieldu.github.io/tags/content-management/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/content-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Management Systems</title>
+      <link>https://superdanieldu.github.io/tags/content-management-systems/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/content-management-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drupal Core</title>
+      <link>https://superdanieldu.github.io/tags/drupal-core/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/drupal-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Content</title>
+      <link>https://superdanieldu.github.io/tags/dynamic-content/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/dynamic-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enable</title>
+      <link>https://superdanieldu.github.io/tags/enable/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/enable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://superdanieldu.github.io/tags/book/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://superdanieldu.github.io/tags/wordpress/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genealogy</title>
+      <link>https://superdanieldu.github.io/tags/genealogy/</link>
+      <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/genealogy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>https://superdanieldu.github.io/tags/graph/</link>
+      <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tree</title>
+      <link>https://superdanieldu.github.io/tags/tree/</link>
+      <pubDate>Fri, 03 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backups</title>
+      <link>https://superdanieldu.github.io/tags/backups/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/backups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>better backups</title>
+      <link>https://superdanieldu.github.io/tags/better-backups/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/better-backups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer data</title>
+      <link>https://superdanieldu.github.io/tags/computer-data/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/computer-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer storage</title>
+      <link>https://superdanieldu.github.io/tags/computer-storage/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/computer-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data loss</title>
+      <link>https://superdanieldu.github.io/tags/data-loss/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/data-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://superdanieldu.github.io/tags/database/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database management systems</title>
+      <link>https://superdanieldu.github.io/tags/database-management-systems/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/database-management-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastructure</title>
+      <link>https://superdanieldu.github.io/tags/infrastructure/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raid</title>
+      <link>https://superdanieldu.github.io/tags/raid/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/raid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snapshot</title>
+      <link>https://superdanieldu.github.io/tags/snapshot/</link>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/snapshot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://superdanieldu.github.io/tags/mysql/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postgresql</title>
+      <link>https://superdanieldu.github.io/tags/postgresql/</link>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing</title>
+      <link>https://superdanieldu.github.io/tags/cloud-computing/</link>
+      <pubDate>Wed, 30 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecommerce</title>
+      <link>https://superdanieldu.github.io/tags/ecommerce/</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://superdanieldu.github.io/tags/shell/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell script</title>
+      <link>https://superdanieldu.github.io/tags/shell-script/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/shell-script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon Web Services</title>
+      <link>https://superdanieldu.github.io/tags/amazon-web-services/</link>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/amazon-web-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HP</title>
+      <link>https://superdanieldu.github.io/tags/hp/</link>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rackspace</title>
+      <link>https://superdanieldu.github.io/tags/rackspace/</link>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/rackspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Command-line interface</title>
+      <link>https://superdanieldu.github.io/tags/command-line-interface/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/command-line-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symfony</title>
+      <link>https://superdanieldu.github.io/tags/symfony/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/symfony/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symfony2</title>
+      <link>https://superdanieldu.github.io/tags/symfony2/</link>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/symfony2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bubble</title>
+      <link>https://superdanieldu.github.io/tags/bubble/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/bubble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IPO</title>
+      <link>https://superdanieldu.github.io/tags/ipo/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandora</title>
+      <link>https://superdanieldu.github.io/tags/pandora/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/pandora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doctrine</title>
+      <link>https://superdanieldu.github.io/tags/doctrine/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/doctrine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenSky</title>
+      <link>https://superdanieldu.github.io/tags/opensky/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/opensky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing platform</title>
+      <link>https://superdanieldu.github.io/tags/computing-platform/</link>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/computing-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://superdanieldu.github.io/tags/html/</link>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web browser</title>
+      <link>https://superdanieldu.github.io/tags/web-browser/</link>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/web-browser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://superdanieldu.github.io/tags/programming/</link>
+      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://superdanieldu.github.io/tags/software/</link>
+      <pubDate>Thu, 05 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://superdanieldu.github.io/tags/career/</link>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://superdanieldu.github.io/tags/management/</link>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework</title>
+      <link>https://superdanieldu.github.io/tags/framework/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editors</title>
+      <link>https://superdanieldu.github.io/tags/editors/</link>
+      <pubDate>Thu, 27 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/editors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new years resolution</title>
+      <link>https://superdanieldu.github.io/tags/new-years-resolution/</link>
+      <pubDate>Fri, 14 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/new-years-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>https://superdanieldu.github.io/tags/productivity/</link>
+      <pubDate>Fri, 14 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://superdanieldu.github.io/tags/amazon/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>https://superdanieldu.github.io/tags/apple/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://superdanieldu.github.io/tags/microsoft/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nintendo</title>
+      <link>https://superdanieldu.github.io/tags/nintendo/</link>
+      <pubDate>Sat, 18 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/nintendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://superdanieldu.github.io/tags/learning/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lessons</title>
+      <link>https://superdanieldu.github.io/tags/lessons/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/lessons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shop</title>
+      <link>https://superdanieldu.github.io/tags/shop/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shopping</title>
+      <link>https://superdanieldu.github.io/tags/shopping/</link>
+      <pubDate>Thu, 26 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/shopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://superdanieldu.github.io/tags/facebook/</link>
+      <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>https://superdanieldu.github.io/tags/social-media/</link>
+      <pubDate>Sun, 11 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>https://superdanieldu.github.io/tags/project-management/</link>
+      <pubDate>Tue, 06 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/project-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text editor</title>
+      <link>https://superdanieldu.github.io/tags/text-editor/</link>
+      <pubDate>Fri, 25 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/text-editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress 3.0</title>
+      <link>https://superdanieldu.github.io/tags/wordpress-3.0/</link>
+      <pubDate>Wed, 23 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/wordpress-3.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cassandra</title>
+      <link>https://superdanieldu.github.io/tags/cassandra/</link>
+      <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cassandra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://superdanieldu.github.io/tags/resources/</link>
+      <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cake</title>
+      <link>https://superdanieldu.github.io/tags/cake/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frameworks</title>
+      <link>https://superdanieldu.github.io/tags/frameworks/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lithium</title>
+      <link>https://superdanieldu.github.io/tags/lithium/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/lithium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zoop</title>
+      <link>https://superdanieldu.github.io/tags/zoop/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/zoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hiring</title>
+      <link>https://superdanieldu.github.io/tags/hiring/</link>
+      <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>https://superdanieldu.github.io/tags/leadership/</link>
+      <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recruiting</title>
+      <link>https://superdanieldu.github.io/tags/recruiting/</link>
+      <pubDate>Mon, 22 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/recruiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>screen</title>
+      <link>https://superdanieldu.github.io/tags/screen/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/screen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SysAdmin</title>
+      <link>https://superdanieldu.github.io/tags/sysadmin/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>https://superdanieldu.github.io/tags/systems/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNIX</title>
+      <link>https://superdanieldu.github.io/tags/unix/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/unix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>du</title>
+      <link>https://superdanieldu.github.io/tags/du/</link>
+      <pubDate>Sat, 23 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profile</title>
+      <link>https://superdanieldu.github.io/tags/profile/</link>
+      <pubDate>Sat, 23 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://superdanieldu.github.io/tags/aws/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudfront</title>
+      <link>https://superdanieldu.github.io/tags/cloudfront/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cloudfront/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Password</title>
+      <link>https://superdanieldu.github.io/tags/password/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/password/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>s3</title>
+      <link>https://superdanieldu.github.io/tags/s3/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://superdanieldu.github.io/tags/security/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://superdanieldu.github.io/tags/api/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote procedure call</title>
+      <link>https://superdanieldu.github.io/tags/remote-procedure-call/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/remote-procedure-call/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representational state transfer</title>
+      <link>https://superdanieldu.github.io/tags/representational-state-transfer/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/representational-state-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rest</title>
+      <link>https://superdanieldu.github.io/tags/rest/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPC</title>
+      <link>https://superdanieldu.github.io/tags/rpc/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/rpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soap</title>
+      <link>https://superdanieldu.github.io/tags/soap/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/soap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software architecture</title>
+      <link>https://superdanieldu.github.io/tags/software-architecture/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web service</title>
+      <link>https://superdanieldu.github.io/tags/web-service/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/web-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web services</title>
+      <link>https://superdanieldu.github.io/tags/web-services/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/web-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web standards</title>
+      <link>https://superdanieldu.github.io/tags/web-standards/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/web-standards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ws security</title>
+      <link>https://superdanieldu.github.io/tags/ws-security/</link>
+      <pubDate>Fri, 15 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ws-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jquery</title>
+      <link>https://superdanieldu.github.io/tags/jquery/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/jquery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vcard</title>
+      <link>https://superdanieldu.github.io/tags/vcard/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vcard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keychain</title>
+      <link>https://superdanieldu.github.io/tags/keychain/</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/keychain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsa</title>
+      <link>https://superdanieldu.github.io/tags/rsa/</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/rsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>https://superdanieldu.github.io/tags/ssh/</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ssh-agent</title>
+      <link>https://superdanieldu.github.io/tags/ssh-agent/</link>
+      <pubDate>Sat, 19 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ssh-agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Gates</title>
+      <link>https://superdanieldu.github.io/tags/bill-gates/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/bill-gates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>focus</title>
+      <link>https://superdanieldu.github.io/tags/focus/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Jobs</title>
+      <link>https://superdanieldu.github.io/tags/steve-jobs/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/steve-jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>success</title>
+      <link>https://superdanieldu.github.io/tags/success/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>snipmate</title>
+      <link>https://superdanieldu.github.io/tags/snipmate/</link>
+      <pubDate>Sat, 12 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/snipmate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>https://superdanieldu.github.io/tags/it/</link>
+      <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vendor</title>
+      <link>https://superdanieldu.github.io/tags/vendor/</link>
+      <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vendor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>follow friday</title>
+      <link>https://superdanieldu.github.io/tags/follow-friday/</link>
+      <pubDate>Mon, 07 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/follow-friday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1and1</title>
+      <link>https://superdanieldu.github.io/tags/1and1/</link>
+      <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/1and1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>godaddy</title>
+      <link>https://superdanieldu.github.io/tags/godaddy/</link>
+      <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/godaddy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cli</title>
+      <link>https://superdanieldu.github.io/tags/cli/</link>
+      <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>command line</title>
+      <link>https://superdanieldu.github.io/tags/command-line/</link>
+      <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/command-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emacs</title>
+      <link>https://superdanieldu.github.io/tags/emacs/</link>
+      <pubDate>Thu, 05 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>help</title>
+      <link>https://superdanieldu.github.io/tags/help/</link>
+      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>karma</title>
+      <link>https://superdanieldu.github.io/tags/karma/</link>
+      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/karma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>win 7</title>
+      <link>https://superdanieldu.github.io/tags/win-7/</link>
+      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/win-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://superdanieldu.github.io/tags/windows/</link>
+      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linkedin</title>
+      <link>https://superdanieldu.github.io/tags/linkedin/</link>
+      <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feed</title>
+      <link>https://superdanieldu.github.io/tags/feed/</link>
+      <pubDate>Mon, 12 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/feed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feedburner</title>
+      <link>https://superdanieldu.github.io/tags/feedburner/</link>
+      <pubDate>Mon, 12 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/feedburner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>search</title>
+      <link>https://superdanieldu.github.io/tags/search/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantic web</title>
+      <link>https://superdanieldu.github.io/tags/semantic-web/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/semantic-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social web</title>
+      <link>https://superdanieldu.github.io/tags/social-web/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/social-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://superdanieldu.github.io/tags/web/</link>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analytics</title>
+      <link>https://superdanieldu.github.io/tags/analytics/</link>
+      <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conversion</title>
+      <link>https://superdanieldu.github.io/tags/conversion/</link>
+      <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/conversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://superdanieldu.github.io/tags/marketing/</link>
+      <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://superdanieldu.github.io/tags/nginx/</link>
+      <pubDate>Thu, 24 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cio</title>
+      <link>https://superdanieldu.github.io/tags/cio/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hosting</title>
+      <link>https://superdanieldu.github.io/tags/hosting/</link>
+      <pubDate>Tue, 25 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subversion</title>
+      <link>https://superdanieldu.github.io/tags/subversion/</link>
+      <pubDate>Tue, 05 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/subversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svn</title>
+      <link>https://superdanieldu.github.io/tags/svn/</link>
+      <pubDate>Tue, 05 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/svn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apache</title>
+      <link>https://superdanieldu.github.io/tags/apache/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flickr</title>
+      <link>https://superdanieldu.github.io/tags/flickr/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/flickr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scaling</title>
+      <link>https://superdanieldu.github.io/tags/scaling/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ebay</title>
+      <link>https://superdanieldu.github.io/tags/ebay/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/ebay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketplace</title>
+      <link>https://superdanieldu.github.io/tags/marketplace/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/marketplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>myspace</title>
+      <link>https://superdanieldu.github.io/tags/myspace/</link>
+      <pubDate>Fri, 03 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/myspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friendfeed</title>
+      <link>https://superdanieldu.github.io/tags/friendfeed/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/friendfeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>https://superdanieldu.github.io/tags/economy/</link>
+      <pubDate>Thu, 29 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment</title>
+      <link>https://superdanieldu.github.io/tags/employment/</link>
+      <pubDate>Thu, 29 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/employment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capital</title>
+      <link>https://superdanieldu.github.io/tags/capital/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/capital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>luxury</title>
+      <link>https://superdanieldu.github.io/tags/luxury/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/luxury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portero</title>
+      <link>https://superdanieldu.github.io/tags/portero/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/portero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vc</title>
+      <link>https://superdanieldu.github.io/tags/vc/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/vc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archive</title>
+      <link>https://superdanieldu.github.io/tags/archive/</link>
+      <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pushups</title>
+      <link>https://superdanieldu.github.io/tags/pushups/</link>
+      <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/pushups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blackberry</title>
+      <link>https://superdanieldu.github.io/tags/blackberry/</link>
+      <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/blackberry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone</title>
+      <link>https://superdanieldu.github.io/tags/iphone/</link>
+      <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIM</title>
+      <link>https://superdanieldu.github.io/tags/rim/</link>
+      <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/rim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cisco</title>
+      <link>https://superdanieldu.github.io/tags/cisco/</link>
+      <pubDate>Tue, 21 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/cisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>announcement</title>
+      <link>https://superdanieldu.github.io/tags/announcement/</link>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firefox</title>
+      <link>https://superdanieldu.github.io/tags/firefox/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://superdanieldu.github.io/tags/mac/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS X</title>
+      <link>https://superdanieldu.github.io/tags/os-x/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/os-x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>script</title>
+      <link>https://superdanieldu.github.io/tags/script/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/script/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>svk</title>
+      <link>https://superdanieldu.github.io/tags/svk/</link>
+      <pubDate>Sat, 23 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/svk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wiki</title>
+      <link>https://superdanieldu.github.io/tags/wiki/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gnu</title>
+      <link>https://superdanieldu.github.io/tags/gnu/</link>
+      <pubDate>Thu, 03 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/gnu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://superdanieldu.github.io/tags/terminal/</link>
+      <pubDate>Thu, 03 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://superdanieldu.github.io/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
