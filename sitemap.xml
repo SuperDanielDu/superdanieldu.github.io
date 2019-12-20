@@ -3,22 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/development/</loc>
-    <lastmod>2019-10-22T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/development/</loc>
     <lastmod>2019-10-22T00:00:00+11:00</lastmod>
   </url>
   
   <url>
     <loc>https://superdanieldu.github.io/tags/go/</loc>
-    <lastmod>2019-10-22T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/golang/</loc>
     <lastmod>2019-10-22T00:00:00+11:00</lastmod>
   </url>
   
@@ -48,18 +38,8 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/</loc>
-    <lastmod>2019-10-22T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/presentation/what-should-a-modern-practical-programming-language-look-like/</loc>
     <lastmod>2019-04-05T00:00:00+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/product-management/</loc>
-    <lastmod>2019-04-04T00:00:00+11:00</lastmod>
   </url>
   
   <url>
@@ -93,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/community/</loc>
-    <lastmod>2018-04-11T00:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/docker/</loc>
     <lastmod>2018-04-11T00:00:00+10:00</lastmod>
   </url>
@@ -123,16 +98,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/leadership/</loc>
-    <lastmod>2018-04-11T00:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/mongodb/</loc>
-    <lastmod>2018-04-11T00:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/mongodb/</loc>
     <lastmod>2018-04-11T00:00:00+10:00</lastmod>
   </url>
@@ -144,11 +109,6 @@
   
   <url>
     <loc>https://superdanieldu.github.io/tags/php/</loc>
-    <lastmod>2018-04-11T00:00:00+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/presentations/</loc>
     <lastmod>2018-04-11T00:00:00+10:00</lastmod>
   </url>
   
@@ -218,17 +178,7 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/docker/</loc>
-    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/linux/</loc>
-    <lastmod>2015-06-05T10:43:50+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/linux/</loc>
     <lastmod>2015-06-05T10:43:50+09:00</lastmod>
   </url>
   
@@ -245,11 +195,6 @@
   <url>
     <loc>https://superdanieldu.github.io/presentation/7-common-mistakes-in-go-2015/</loc>
     <lastmod>2015-05-27T12:28:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/open-source/</loc>
-    <lastmod>2015-03-20T18:00:02-04:00</lastmod>
   </url>
   
   <url>
@@ -279,11 +224,6 @@
   
   <url>
     <loc>https://superdanieldu.github.io/tags/advocacy/</loc>
-    <lastmod>2014-09-24T13:17:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/developer-advocacy/</loc>
     <lastmod>2014-09-24T13:17:48-04:00</lastmod>
   </url>
   
@@ -338,11 +278,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/php/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/post/go-pointers-vs-references/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -353,17 +288,7 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/python/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/ruby/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/ruby/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,11 +368,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/vim/</loc>
-    <lastmod>2014-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/vim/</loc>
     <lastmod>2014-01-17T00:00:00+00:00</lastmod>
   </url>
@@ -498,11 +418,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/blogging/</loc>
-    <lastmod>2013-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/blogging/</loc>
     <lastmod>2013-07-04T00:00:00+00:00</lastmod>
   </url>
@@ -549,11 +464,6 @@
   
   <url>
     <loc>https://superdanieldu.github.io/tags/personal/</loc>
-    <lastmod>2013-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/personal/</loc>
     <lastmod>2013-06-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -653,11 +563,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/architecture/</loc>
-    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/data-analysis/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
   </url>
@@ -698,11 +603,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/scalability/</loc>
-    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/tags/strata/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
   </url>
@@ -714,16 +614,6 @@
   
   <url>
     <loc>https://superdanieldu.github.io/tags/structured-storage/</loc>
-    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/systems/</loc>
-    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/tech-industry/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -1168,11 +1058,6 @@
   </url>
   
   <url>
-    <loc>https://superdanieldu.github.io/topics/ecommerce/</loc>
-    <lastmod>2012-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://superdanieldu.github.io/presentation/hybrid-mongodb-sql-applications/</loc>
     <lastmod>2012-01-06T00:00:00+00:00</lastmod>
   </url>
@@ -1519,11 +1404,6 @@
   
   <url>
     <loc>https://superdanieldu.github.io/tags/facebook/</loc>
-    <lastmod>2010-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://superdanieldu.github.io/topics/social-media/</loc>
     <lastmod>2010-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -2370,6 +2250,10 @@
   <url>
     <loc>https://superdanieldu.github.io/tags/terminal/</loc>
     <lastmod>2008-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://superdanieldu.github.io/categories/</loc>
   </url>
   
 </urlset>
