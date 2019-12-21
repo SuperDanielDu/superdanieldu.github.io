@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on SuperDaniel&#39;s Zone</title>
+    <link>https://superdanieldu.github.io/projects/</link>
+    <description>Recent content in Projects on SuperDaniel&#39;s Zone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2019, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 21 Dec 2019 12:51:00 +1100</lastBuildDate>
+    
+	<atom:link href="https://superdanieldu.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B</title>
+      <link>https://superdanieldu.github.io/projects/b/</link>
+      <pubDate>Sat, 21 Dec 2019 12:51:00 +1100</pubDate>
+      
+      <guid>https://superdanieldu.github.io/projects/b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
